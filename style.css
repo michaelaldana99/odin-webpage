@@ -147,6 +147,8 @@ body{
     justify-content: space-around;
     align-items: center;
     min-width: 0;
+    margin: 10px 5px;
+    flex-wrap: wrap;
 }
  
 /*header content*/
