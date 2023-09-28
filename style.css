@@ -353,8 +353,8 @@ a{
     display: none;
     position: absolute;
     background-color: #DEA01E; /* Background color for the dropdown */
-    min-width: 160px;   
-    right: 100%;
+    min-width: 120px;   
+    right: -5px;
     top: 100%;
     border-radius: 10px;
 }
