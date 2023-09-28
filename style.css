@@ -354,9 +354,8 @@ a{
     position: absolute;
     background-color: #DEA01E; /* Background color for the dropdown */
     min-width: 160px;   
-    left: 50%;
+    right: 100%;
     top: 100%;
-    transform: translateX(-50%);
     border-radius: 10px;
 }
 
